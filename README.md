@@ -1,5 +1,20 @@
 # React + TypeScript + Vite
 
+SETUP for running the project:
+  1. Download Node.js from the official site https://nodejs.org/en
+  2. Make sure nodejs is installed correctly by running the command:
+      node -v
+      npm -v
+    if these commands give the version then node js is installed correctly.
+  3. Using cd command get to the project directory
+  4. Run the command:
+      npm create vite@latest
+      npm i
+      npm gsap
+      npm install lucide-react
+    This will complete the setup for react js
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
